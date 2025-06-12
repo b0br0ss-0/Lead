@@ -149,7 +149,6 @@ print(stats.ttest_ind(a=pre_2017, b=post_2017, equal_var=True))
 
 # for emissions_year in lead_design_values('three_month_average.csv',1,monitoring_years):
 #  print(emissions_year[1])
-#Bob Ross 24
 
 
 
